@@ -25,6 +25,6 @@ mongoose
 // Makes it so anything that goes to /api/items uses the items variable.
 app.use('/api/items', items);
 
-const port = process.env.MONGODB_URI || 5000;
+const port = process.env.PORT || 5000;
 
 app.listen(port, () => console.log(`Server started on port ${port}`));
