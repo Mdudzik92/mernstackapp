@@ -1,4 +1,4 @@
-Workout Tracker
+MERN Stack Shopping List
 
 <!-- Live link to deployed app -->
 
