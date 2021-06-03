@@ -2,7 +2,7 @@ Workout Tracker
 
 <!-- Live link to deployed app -->
 
-Repository: https://github.com/Mdudzik92/mernstackapp
+Repository: https://github.com/Mdudzik92/mernstackapp<br>
 Deployed app: https://mattsmernstackapp.herokuapp.com/
 
 <!-- Technologies used -->
@@ -15,7 +15,7 @@ This is an full stack app which allows the user to fill out and track their pers
 
 <!-- Screenshot -->
 
-<img src="./img/workingapp.png"><br>
+<img src="./img/workingapp.png">
 <img src="./img/additem.png">
 
 <!-- License -->
