@@ -47,7 +47,6 @@ class AppNavbar extends Component {
         </Navbar>
     </div>
       );
-      
   }
 }
 
