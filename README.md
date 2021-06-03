@@ -14,7 +14,8 @@ MERN (MongoDB, Express, React, Node.js)
 This is an full stack app which allows the user to fill out and track their personal shopping list. They can start by clicking "Add Item" and filling out the shopping list with what they need. Once the items are added they can click the red 'X' to remove the item from their list.
 
 <!-- Screenshot -->
-<img src="./img/workingapp.png">
+
+<img src="./img/workingapp.png"><br>
 <img src="./img/additem.png">
 
 <!-- License -->
